@@ -1,0 +1,9 @@
+conversations_PROPN, deeppavlov_PROPN, sberdevices_PROPN, yandex_PROPN cloud_NOUN, just_ADP ai_NOUN, диалоговый_ADJ платформа_NOUN, искусственный_ADJ интеллект_NOUN, voximplant_PROPN, проектирование_NOUN, альфа-банк_PROPN, vk_PROPN, kode_PROPN, синтез_NOUN речь_NOUN, mts_PROPN ai_PROPN, agima_PROPN ai_NOUN, распознавание_NOUN речь_NOUN, ux_NOUN, сбер_PROPN, конференция_NOUN, разговорный_ADJ ии_NOUN, nlp_NOUN, генеративный_ADJ модель_NOUN, промокод_NOUN
+
+технология_NOUN, нейронный_ADJ сеть_NOUN, приложение_NOUN, ai_NOUN, глубокий_ADJ обучение_NOUN, дипфейк_NOUN, ml_NOUN, автозавершение_NOUN код_NOUN, open_ADJ source_NOUN, генератор_NOUN изображение_NOUN, обработка_NOUN звук_NOUN, база_NOUN данные_NOUN, обнаружение_NOUN объект_NOUN, искусственный_ADJ интеллект_NOUN, фреймворк_NOUN, cv_NOUN, обработка_NOUN видео_NOUN, робототехника_NOUN, нейросеть_NOUN, dl_NOUN, голосовой_ADJ помощник_NOUN, визуализация_NOUN, обучение_NOUN программирование_NOUN, игра_NOUN, обработка_NOUN естественный_ADJ язык_NOUN, nlp_NOUN, библиотека_NOUN, опенсорс_NOUN
+
+1_NUM место_NOUN, хакатон_NOUN, граф_NOUN, альфа-банк_NOUN, обработка_NOUN текст_NOUN, svd_PROPN, pytorch-lifestream_PROPN, нейросеть_NOUN, tf-idf_PROPN, lightautoml_PROPN, nlp_NOUN, машинный_ADJ обучение_NOUN, вк_PROPN
+
+rubert_PROPN, сгенерировать_VERB стихотворение_NOUN, lstm_PROPN, нейронный_ADJ сеть_NOUN, temperature_NOUN, евгений_PROPN онегин_PROPN, ac/dc_PROPN, стих_NOUN, обработка_NOUN естественный_ADJ язык_NOUN, лермонтов_PROPN, nlp_NOUN, трансформер_NOUN
+
+дубликат_NOUN, нейросеть_NOUN, entity_NOUN resolution_NOUN, data_NOUN matching_NOUN, data_NOUN quality_NOUN, векторный_ADJ репрезентация_NOUN, zingg_PROPN, интеграция_NOUN данные_NOUN, data_NOUN integration_NOUN, повтор_NOUN, открытый_ADJ исходный_ADJ код_NOUN, дедупликация_NOUN, улучшение_NOUN качество_NOUN данные_NOUN, entity_NOUN matching_NOUN, record_NOUN linkage_NOUN, эмбеддинг_NOUN
